@@ -8,4 +8,4 @@ It mainly operates on dictionaries and implements methods such as:
 * __view an article__
 * __generates popular content report__
 
-This code can be implemeted in Visual Stdio and other Python editors.
+This code can be implemeted in Visual Studio and other Python editors.
